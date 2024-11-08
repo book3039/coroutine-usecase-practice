@@ -11,7 +11,7 @@ class TimeoutAndRetryViewModel(
         uiState.value = UiState.Loading
         val numberOfRetries = 2
         val timeout = 1000L
-
+3
         // TODO: Exercise 3
         // switch to branch "coroutine_course_full" to see solution
 
